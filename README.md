@@ -42,7 +42,7 @@ You should see many files as described in the following table.
 | `README.md` | contains the description of the project your currently reading |
 | `Fixme.py` | contains the project's python code that you will have to fix |
 
-### Running the test cases
+### Running the test casess
 
 This project uses the `doctest` module for its test cases.
 `doctest` is a standard python module that comes with every python installation.
